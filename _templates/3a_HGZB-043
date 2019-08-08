@@ -17,3 +17,5 @@ Some numbers I found internally (taking off the cover) are 120K3S_WIFI_SV5 (for 
 Finally, as there are a number of LED's, this may need to be tweaked with the next release of Tasmota with LedLink feature.
 
 
+Here is my Template that works including tallies.
+{"NAME":"3A Smart Home ","GPIO":[157,0,54,18,22,19,0,0,17,21,53,23,52],"FLAG":0,"BASE":18}
